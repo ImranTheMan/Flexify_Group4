@@ -50,7 +50,7 @@
             android:layout_marginTop="15dp"
             android:fontFamily="@font/cubaofont"
             android:gravity="center"
-            android:text="QUESTION"
+            android:text="Organize your Workout routine"
             android:textColor="#000000"
             android:textSize="31sp" />
 
